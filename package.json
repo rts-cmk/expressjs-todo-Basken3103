@@ -1,0 +1,23 @@
+{
+  "name": "expressjs-todo-basken3103",
+  "version": "1.0.0",
+  "description": "I denne opgave skal du bygge en lille webserver med Express.js, der kan håndtere en liste over opgaver (TODOs). Formålet er at give dig praktisk erfaring med at opsætte en server, definere ruter og arbejde med data i JSON-format. Du skal starte med at oprette et nyt projekt, installere Express og sætte en server op, der kan lytte på en port.",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js",
+  "express": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rts-cmk/expressjs-todo-Basken3103.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rts-cmk/expressjs-todo-Basken3103/issues"
+  },
+  "homepage": "https://github.com/rts-cmk/expressjs-todo-Basken3103#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
